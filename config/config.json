@@ -1,0 +1,13 @@
+{
+    "name": "subscan",
+    "author": "ccd",
+    "version": "0.0.1",
+    "repo": "github.com/CreativeCrazyDesign/subscan",
+    "contact": {
+      "github": "github.com/CreativeCrazyDesign",
+      "mail": "creativecrazydesign@gmail.com"
+    },
+    "title": "subdomain scanner tool ",
+    "desc": "it is small yet powerfool go-based subdomain scanner tool.",
+    "example": "sub -d example.com -w sublist/subdom.txt -t 50 -o active_subd.txt"
+  }
